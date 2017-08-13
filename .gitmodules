@@ -1,0 +1,6 @@
+[submodule "subweb1"]
+	path = subweb1
+	url = https://github.com/zcooool/basic-web1.git
+[submodule "subweb2"]
+	path = subweb2
+	url = https://github.com/zcooool/basic-web2.git
